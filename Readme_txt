@@ -1,0 +1,26 @@
+Here’s a concise description of **Currency Converter** project:
+
+**Project Description:**  
+
+The **Currency Converter** is an intelligent system designed to provide almost accurate currency conversions. It utilizes agentic AI principles, enabling it to autonomously fetch exchange rates, process conversion requests, and adapt to market fluctuations without manual intervention.  
+
+**How It Works:**  
+
+1. **Input Processing:**  
+   - The user provides input values- the amount, source currency, and target currency in their respective boxes.   
+
+2. **Data Retrieval:**  
+   - The AI agent fetches the latest exchange rates from reliable financial data sources or APIs.  
+   - It ensures that up-to-date and accurate rates are used for conversions.  
+
+3. **Calculation & Conversion:**  
+   - The AI processes the data and performs currency conversion based on the retrieved exchange rate.  
+   - Additional calculations, such as including transaction fees or historical comparisons, can also be performed.  
+
+4. **Output Generation:**  
+   - The result is displayed in a user-friendly format, providing the converted amount along with relevant details 
+
+**Key Features:**    
+- Support for multiple currencies.  
+- Smart handling of expired tokens and API rate limits.  
+- Secure and scalable implementation
